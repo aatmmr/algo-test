@@ -1,0 +1,14 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ms-vscode.powershell"
+  },
+  "customizations": {
+		"vscode": {
+			"extensions": [
+				"github.vscode-github-actions",
+				"esbenp.prettier-vscode"
+			]
+		}
+	}
+}
