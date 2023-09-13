@@ -1,8 +1,9 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {
-  },
-  "customizations": {
+	"name": "Al-Go Dev Environment",
+	"dockerFile": "Dockerfile",
+  	"features": {
+  	},
+  	"customizations": {
 		"vscode": {
 			"extensions": [
 				"github.vscode-github-actions",
